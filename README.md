@@ -12,8 +12,18 @@
   <tr>
     <td>iGPU</td><td>Intel HD Graphics 530 1536MB</td>
   <tr>  
+  <tr>
+    <td>音效卡</td><td>Realtek® ALC887</td>
+  <tr>
+  <tr>
+    <td>網路卡</td><td>Intel 1219-LM</td>
+  <tr>  
     <td>固態硬碟</td><td>美光 120GB</td>
   </tr>
   <tr>
     <td>系統</td><td>macOS Ventura 13.2.1 + OpenCore 0.9.0</td>
+  </tr>
+  <tr>
+  <td>其它</td><td>HD530在macOS 12 Monterey的驅動00001219，在13 Ventura要改成00001B59</td>
+  </tr>
 </table>
