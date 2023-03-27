@@ -1,10 +1,10 @@
-# Successed: ASUS H110M-C/D520MT/DP_MB iGPU HD530
+# Successed: ASUS H110M-C iGPU HD530
 <table>
   <tr>
     <td>處理器</td><td>Intel(R) Core(TM) i7-6700 Skylake</td>
   </tr>
   <tr>
-    <td>主機板</td><td>ASUS H110M-C/D520MT</td>
+    <td>主機板</td><td>ASUS H110M-C/D520MT/DP_MB</td>
   </tr>
   <tr>  
     <td>記憶體</td><td>DDR4-2133 8GB *2</td>
