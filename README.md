@@ -24,6 +24,6 @@
     <td>系統</td><td>macOS Ventura 13.2.1 + OpenCore 0.9.0</td>
   </tr>
   <tr>
-  <td>其它</td><td>HD530在macOS 12 Monterey的驅動00001219<br>在13 Ventura要改成00001B59</td>
+  <td>其它</td><td>HD530在macOS 12 Monterey的驅動00001219，在13 Ventura要改成00001B59，詳見EFI</td>
   </tr>
 </table>
