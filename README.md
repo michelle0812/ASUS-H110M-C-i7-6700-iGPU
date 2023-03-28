@@ -21,7 +21,7 @@
     <td>固態硬碟</td><td>美光 120GB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Ventura 13.2.1 + OpenCore 0.9.0</td>
+    <td>系統</td><td>macOS Ventura 13.3 + OpenCore 0.9.0</td>
   </tr>
   <tr>
   <td>備註</td><td>HD530在macOS 12 Monterey的驅動00001219，在13 Ventura要改成00001B59，詳見EFI</td>
