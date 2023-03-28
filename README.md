@@ -30,4 +30,4 @@
 
 <img width="450" src="https://user-images.githubusercontent.com/79300809/207200873-5de83401-1f86-496c-9e92-242b0fc03773.jpg"><br>
 
-![截圖 2023-03-28 上午9 26 22](https://user-images.githubusercontent.com/79300809/228103744-f2e183b5-a119-4de1-8812-1a3828c3fb0c.png)<br>
+<img width="450" src="https://user-images.githubusercontent.com/79300809/228103744-f2e183b5-a119-4de1-8812-1a3828c3fb0c.png"><br>
