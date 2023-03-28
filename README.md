@@ -27,3 +27,5 @@
   <td>備註</td><td>HD530在macOS 12 Monterey的驅動00001219，在13 Ventura要改成00001B59，詳見EFI</td>
   </tr>
 </table>
+
+<img width="450" src="https://user-images.githubusercontent.com/79300809/207200873-5de83401-1f86-496c-9e92-242b0fc03773.jpg"><br>
