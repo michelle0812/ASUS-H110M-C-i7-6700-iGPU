@@ -21,7 +21,7 @@
     <td>固態硬碟</td><td>美光 120GB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Ventura 13.3 + OpenCore 0.9.0</td>
+    <td>系統</td><td>macOS Ventura 13.3 + OpenCore 0.9.1</td>
   </tr>
   <tr>
   <td>備註</td><td>platform-id changed from 00001219 to 00001B59 in macOS 13 Ventura</td>
