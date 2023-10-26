@@ -23,9 +23,6 @@
   <tr>
     <td>系統</td><td>macOS Ventura 13.6.1 + OpenCore 0.9.6</td>
   </tr>
-  <tr>
-  <td>備註</td><td></td>
-  </tr>
 </table>
 
 <img width="450" alt="截圖 2023-10-26 下午3 07 02" src="https://github.com/michelle0812/ASUS-H110M-i7-6700-HD530/assets/79300809/35f55edd-a7ea-4c44-890c-0750c20c162a"><br>
