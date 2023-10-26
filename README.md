@@ -18,13 +18,13 @@
   <tr>
     <td>網路卡</td><td>Intel 1219-LM</td>
   <tr>  
-    <td>固態硬碟</td><td>美光 120GB</td>
+    <td>固態硬碟</td><td>美光MX500 1TB</td>
   </tr>
   <tr>
-    <td>系統</td><td>macOS Ventura 13.5 + OpenCore 0.9.4</td>
+    <td>系統</td><td>macOS Ventura 13.6.1 + OpenCore 0.9.6</td>
   </tr>
   <tr>
-  <td>備註</td><td>platform-id changed from 00001219 to 00001B59 in macOS 13 Ventura</td>
+  <td>備註</td><td></td>
   </tr>
 </table>
 <img width="450" alt="截圖 2023-08-02 下午2 54 09" src="https://github.com/michelle0812/ASUS-H110M-i7-6700-HD530/assets/79300809/7dbc85d5-d371-42c5-954c-cd73412aa7ad"><br>
